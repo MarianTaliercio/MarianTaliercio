@@ -1,4 +1,4 @@
-## Hi there 👋
+## Buenas, mi nombre es Marian 👋
 
 <!--
 **MarianTaliercio/MarianTaliercio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Buenas, mi nombre es Marian 🍕 
 
 Trabajo como Analista de Performance con foco en campañas publicitarias digitales. Tengo más de 7 años de experiencia en marketing y publicidad, ayudando a marcas a crecer a través de estrategias orientadas a resultados.
 
